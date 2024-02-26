@@ -1,4 +1,4 @@
 # Gameoflife
  Conway's Game of Life implemented using js5. 
 
-[!Screenshot][ConwayGameofLife.png]
+<img src="ConwayGameoflife.png" alt="ConwayGameoflife.png Screenshot" width="1000">
